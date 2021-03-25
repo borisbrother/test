@@ -64,4 +64,8 @@
 // const path = "./main.js";
 // const cb = print.bind(null, path);
 // fs.readFile(path, "utf8", cb);
-console.log(document.cookie);
+// let position = "Project Manager";
+
+// document.cookie = `position=${encodeURIComponent(position)}; SameSite=Lax`;
+
+// console.log(document.cookie);
